@@ -3,7 +3,7 @@ This is a sample website for showing how to use git
 ## Second Level
 
 ### Third Level
-Copyright Notice for training
+    -= Copyright Notice for training =-
 ## Deployment
 This is another modification
 
